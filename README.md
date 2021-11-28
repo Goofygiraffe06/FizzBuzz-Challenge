@@ -1,3 +1,3 @@
 # FizzBuzz-Challenge
 This is me solving FizzBuzz challenge in Python3
-![Discord Shield](https://discordapp.com/api/guilds/127498813903601664/widget.png?style=shield)
+![Discord Banner 4](https://discordapp.com/api/guilds/914495197256228954/widget.png?style=banner4)
