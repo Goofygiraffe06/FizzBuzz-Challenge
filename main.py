@@ -6,7 +6,5 @@ elif num % 3 == 0:
   print("Fizz!")
 elif num % 5 == 0:
   print("Buzz!")
-elif num % 3 != 0:
-  print("Special Case! - Not divisible by both 3 and 5")
-elif num % 5 != 0:
+elif num % 3 and num % 5 != 0:
   print("Special Case! - Not divisible by both 3 and 5")
